@@ -13,7 +13,7 @@
 
 > This is a **supervised learning algorithm** which means that it "relies on labeled input data to learn a function that produces an appropriate output when given new unlabeled data."
 
-Read more here: [K-Nearest Neighbors](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761) & Here [K-Nearest Neighbors Documentation](https://scikit-learn.org/stable/modules/neighbors.html)
+Read more [here: K-Nearest Neighbors](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761) &  [Here: K-Nearest Neighbors Documentation](https://scikit-learn.org/stable/modules/neighbors.html)
 
 
 We chose this model because:

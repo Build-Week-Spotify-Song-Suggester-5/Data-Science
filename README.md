@@ -4,8 +4,9 @@ General Guide
 - [Lambda School Project Explanation, Guidelines, and Team Roles](https://airtable.com/shrtA1m4LFJAnjvqS/tblI02wuarVEYWVSv/viw2L09271lKsRt5x/recsd9pTmzGNlk2re?blocks=hide)
 - [Song Suggester Architecture](https://www.notion.so/Spotify-Song-Suggester-0fd8e64d69c54e03a7884eec81885dbc)
 - [Team Github](https://trello.com/c/i2p8e44L/5-ml-engineers)
+- [A Guide to what other roles within our team are doing](https://www.notion.so/Working-Effectively-Across-Tracks-7be8d0eb25a14418b1e2a93ddde1d561)
 
-### Links
+### Machine Learning Engineer Links
 
 - [Kaggle Set](https://www.kaggle.com/tomigelo/spotify-audio-features)
 - [Data Science Rubric](https://www.notion.so/Data-Science-Unit-4-814c17e421334cd8b3d2867d1d49f541)

@@ -1,5 +1,4 @@
 # Data-Science
-Data Science Repo
 
 ### Links
 
@@ -14,6 +13,7 @@ Data Science Repo
 
 > This is a **supervised learning algorithm** which means that it "relies on labeled input data to learn a function that produces an appropriate output when given new unlabeled data."
 
+Read more here: [K-Nearest Neighbors](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
 
 We chose this model because:

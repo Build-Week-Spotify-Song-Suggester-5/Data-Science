@@ -33,7 +33,7 @@ dataset increases in size.
 Read more [here: K-Nearest Neighbors](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761) &  [here: K-Nearest Neighbors Documentation](https://scikit-learn.org/stable/modules/neighbors.html)
 
 
-#### **Our Goal**:
+#### *Our Goal:*
 
 > **Pitch**: Build an app to enable users to browse and visualize audio features of over 116k spotify songs.
 

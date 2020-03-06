@@ -19,7 +19,7 @@
 taste profiles, time listened, etc. Competitor Pandora has hired musiciologists to work on their 'music genome project' which
 is probably more of a feature engineering thing using domain experts.
 
-We chose this model because:
+#### *We chose this model because:*
 
 We ended up using only Nearest Neighbors. Couldn't find a data set to do CF on. Feature engineering included scraping genres,
 predicting languages of the track_names, and sentiment analysis of the track names. While we found several research papers on using
